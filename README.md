@@ -1,0 +1,1 @@
+The goal was to analyze the sales for a retail co. using a provided dataset. Starting first with the business question which paves the way for creating an insightful dashboard. Moving forward with drawing the mockup to make a clear plan. At the end data is cleaned and modelled for the visualization step where the Strategic dashboard was made.
